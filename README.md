@@ -13,7 +13,25 @@
 
 ## 받기
 
-[**최신 버전 내려받기**](../../releases/latest) — Releases 에서 zip 을 받으세요.
+[**최신 버전 내려받기**](../../releases/latest) — Releases 에서 `Spotify-Lyrics-1.0.3.zip` 을
+받으시면 됩니다. 인텔이든 애플 실리콘이든 이 파일 하나로 됩니다.
+
+<details>
+<summary>내려받는 크기를 줄이고 싶다면</summary>
+
+칩에 맞는 것만 담은 파일도 함께 올려둡니다. 어느 칩인지 모르시면 위의 것을
+받으세요 — 잘못 받는 것보다 10MB 더 받는 게 낫습니다.
+
+| 파일 | 어느 맥 |
+|---|---|
+| `Spotify-Lyrics-1.0.3.zip` | 아무 맥이나 (권장) |
+| `Spotify-Lyrics-1.0.3-apple-silicon.zip` | M1·M2·M3·M4 |
+| `Spotify-Lyrics-1.0.3-intel.zip` | 2020년 이전 인텔 맥 |
+
+내 맥이 어느 쪽인지는 **왼쪽 위 사과 → 이 Mac에 관하여** 에서 봅니다.
+`칩` 이라고 적혀 있으면 애플 실리콘, `프로세서` 면 인텔입니다.
+
+</details>
 
 ## 설치
 
